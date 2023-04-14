@@ -1,7 +1,6 @@
 # Coffee machine kata
 
-- https://simcap.github.io/coffeemachine/
-- here's my attempt at this: https://tonytvo.github.io/coffee-machine-pratice-notes-feb-18-2023/
+https://simcap.github.io/coffeemachine/
 
 # References
 - [coffee machine kata refactoring](https://www.youtube.com/watch?v=sIceCgI6QO0&list=PLITEvpe_3xfd-AZ1D7_v-jJouMKt4_h1_&ab_channel=GregorRiegler)
