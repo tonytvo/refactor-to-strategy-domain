@@ -18,4 +18,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'coffeemachine'
+rootProject.name = 'fizzbuzz'
