@@ -1,3 +1,3 @@
 # description
 
-- [main page layout](https://github.com/tonytvo/refactor-to-strategy-domain/blob/main/README.md)
+- [main description](https://github.com/tonytvo/refactor-to-strategy-domain/blob/main/README.md)
