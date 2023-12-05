@@ -59,7 +59,7 @@ or (CLion 2022.2.3, C++)
 - Change Signature
 - Introduce Constant…
 
-# Do exercis
+# Do exercise
 
 People should work in pairs/ensemble to do the same exercise again from the start. If they lack IDE experience, they should follow your list of shortcuts from the whiteboard. More confident pairs may know other shortcuts and can try to achieve the same thing in a different way. Ask them to write down their sequence of steps if so.
 
@@ -87,3 +87,5 @@ Put the flipchart up in the team area.
 - https://www.pluralsight.com/courses/refactoring-anemic-domain-model
 - https://elearning.industriallogic.com/gh/submit?Action=AlbumContentsAction&album=designPatternsBoxSet&devLanguage=Java
 - https://github.com/RefactoringCombos/ArlosCommitNotation
+- https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf
+- https://blog.ninjaferret.co.uk/2015/06/05/Introducing-Functional-Calisthenics.html
