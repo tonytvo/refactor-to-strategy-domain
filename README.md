@@ -18,7 +18,13 @@ Show the starting position of the Refactoring Kata and explain the code smell - 
 
 It’s also useful to run the tests and show they have good coverage and should be reliable for finding refactoring errors.
 
-# Demo Parrot
+the interesting twists for this exercise is to see how far I can push on arlo commit notation and functional paradigms
+- https://github.com/RefactoringCombos/ArlosCommitNotation
+- https://www.cs.helsinki.fi/u/luontola/tdd-2009/ext/ObjectCalisthenics.pdf
+- https://blog.ninjaferret.co.uk/2015/06/05/Introducing-Functional-Calisthenics.html
+
+
+# Demo exercise
 
 You want to help people become more productive at refactoring, and this demo is about inspiring them with what’s possible. Make it slick, make it fast. Put the tests on auto-run, or run them using a shortcut after every change.
 
@@ -80,3 +86,4 @@ Put the flipchart up in the team area.
 - https://www.jimmybogard.com/domain-driven-refactoring-intro/
 - https://www.pluralsight.com/courses/refactoring-anemic-domain-model
 - https://elearning.industriallogic.com/gh/submit?Action=AlbumContentsAction&album=designPatternsBoxSet&devLanguage=Java
+- https://github.com/RefactoringCombos/ArlosCommitNotation
