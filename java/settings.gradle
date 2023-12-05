@@ -18,4 +18,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'fizzbuzz'
+rootProject.name = 'strategydomain'

@@ -1,4 +1,4 @@
-package org.fizzbuzz;
+package org.strategydomain;
 
 import org.junit.jupiter.api.Test;
 

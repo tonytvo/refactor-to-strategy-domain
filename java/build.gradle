@@ -11,7 +11,7 @@ plugins {
     id 'java'
 }
 
-group 'org.fizzbuzz'
+group 'org.strategydomain'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
